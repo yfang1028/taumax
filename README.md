@@ -1,1 +1,2 @@
 # taumax
+For reproducibility of the paper "Quasi-reliable Estimate of Effective Sample Size".
